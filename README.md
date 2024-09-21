@@ -3,7 +3,7 @@ The "picture" should be returned as a collection of strings. See the following
 examples to understand the requirements:
 
 * Step 1:
-* 
+
 drawChristmasTree (0 | undefined);
 ```
                 no tree
