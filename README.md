@@ -1,4 +1,4 @@
-[Link text](https://codingdojo.org/kata/FizzBuzz/)
+[FizzBuzz Kata](https://codingdojo.org/kata/FizzBuzz/)
 
 #Stage 1 - requirements
 
