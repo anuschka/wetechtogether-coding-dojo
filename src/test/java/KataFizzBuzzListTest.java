@@ -1,8 +1,5 @@
 
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.extension.ExtendWith;
-import org.mockito.InjectMocks;
-import org.mockito.junit.jupiter.MockitoExtension;
 
 import java.util.List;
 
@@ -10,7 +7,6 @@ import static org.example.KataFizzBuzzList.fizzBuzz;
 import static org.example.KataFizzBuzzList.fizzBuzzStage2;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-@ExtendWith(MockitoExtension.class)
 public class KataFizzBuzzListTest {
     @Test
     public void fizzBuzzTest() {
