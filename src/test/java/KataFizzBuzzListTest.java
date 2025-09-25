@@ -72,4 +72,5 @@ public class KataFizzBuzzListTest {
         result = fizzBuzzStage2(15);
         assertEquals("FizzBuzz", result.get(14)); // 15 is divisible by both 3 and 5
     }
+
 }
